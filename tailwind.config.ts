@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'body-primary-light': 'rgba(156, 156, 156, 1)',
+      },
+      fontFamily: {
+        Geist: ['Geist', 'sans-serif'],
       },
     },
   },
